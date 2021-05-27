@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Workshop Template
-email: bourdakos1@gmail.com
-description: A template for a GitHub pages workshop stepper UI.
+email: liam.odwyer@dcu.ie
+description: A template for DH Workshops
 
 # Build settings
 markdown: kramdown
