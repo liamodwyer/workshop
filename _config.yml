@@ -25,6 +25,7 @@ description: A template for DH Workshops
 # Build settings
 markdown: kramdown
 theme: minima
+baseurl: "/workshop"
 
 # Direct posts to specific url
 collections:
