@@ -3,7 +3,7 @@ title: Hello World  # The title of the page
 date: 0000-01-01    # Page order is set by date
 ---
 
-Lorem markdownum imitata. Causas caeli squalentia comes ictus guttura moenia,
+Testing Edit markdownum imitata. Causas caeli squalentia comes ictus guttura moenia,
 deficiunt tibi. Illa natas unda supersunt locus: silenti duri veniat furoribus
 certamine, mansit.
 
