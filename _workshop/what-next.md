@@ -1,5 +1,5 @@
 ---
-title: Last page? # The title of the page
+title: Last page # The title of the page
 date: 0000-01-30  # Page order is set by date
 ---
 
