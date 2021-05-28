@@ -1,5 +1,5 @@
 ---
-title: Workshop Title  # The title of the page
+title: Workshop Title and Intro # The title of the page
 date: 0000-01-01    # Page order is set by date
 ---
 
