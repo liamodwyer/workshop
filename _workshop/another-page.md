@@ -1,5 +1,5 @@
 ---
-title: Page Two     # The title of the page
+title: Lesson Content Section     # The title of the page
 date: 0000-01-02    # Page order is set by date
 ---
 
